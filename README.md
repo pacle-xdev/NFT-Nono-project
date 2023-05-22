@@ -1,62 +1,46 @@
-Contribution: 2020-01-06 20:00
+# Getting Started with Create React App
 
-Contribution: 2020-01-06 20:01
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2020-01-07 20:00
+## Available Scripts
 
-Contribution: 2020-01-08 20:00
+In the project directory, you can run:
 
-Contribution: 2020-01-08 20:01
+### `yarn start`
 
-Contribution: 2020-01-10 20:00
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2020-01-13 20:00
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2020-01-17 20:00
+### `yarn test`
 
-Contribution: 2020-01-20 20:00
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2020-01-22 20:00
+### `yarn build`
 
-Contribution: 2020-01-22 20:01
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2020-01-23 20:00
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2020-01-23 20:01
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2020-01-24 20:00
+### `yarn eject`
 
-Contribution: 2020-01-29 20:00
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2020-01-29 20:01
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2020-02-03 20:00
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2020-02-04 20:00
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2020-02-04 20:01
+## Learn More
 
-Contribution: 2020-02-05 20:00
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2020-02-05 20:01
-
-Contribution: 2020-02-07 20:00
-
-Contribution: 2020-02-10 20:00
-
-Contribution: 2020-02-11 20:00
-
-Contribution: 2020-02-13 20:00
-
-Contribution: 2020-02-13 20:01
-
-Contribution: 2020-02-17 20:00
-
-Contribution: 2020-02-17 20:01
-
-Contribution: 2020-02-18 20:00
-
-Contribution: 2020-02-19 20:00
-
-Contribution: 2020-02-19 20:01
-
+To learn React, check out the [React documentation](https://reactjs.org/).
